@@ -1,4 +1,4 @@
-const teams = ['🚁 mobi-dick', '✈️ WebServices'];️
+const teams = ['🚁 mobi-dick', '✈️ WebServices'];
 
 const weekNode = document.querySelector('#number-of-week');
 const teamNode = document.querySelector('#team');
